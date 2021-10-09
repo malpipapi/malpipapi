@@ -3,7 +3,8 @@
 
 
 ![Woogie's GitHub stats](https://github-readme-stats.vercel.app/api?username=malpipapi&show_icons=true&theme=radical)
-
+https://img.shields.io/badge/-Sprignboot-brightgreen
+https://img.shields.io/badge/-Java-blueviolet
 <!--
 **malpipapi/malpipapi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
