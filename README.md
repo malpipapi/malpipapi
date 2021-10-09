@@ -2,9 +2,9 @@
 
 
 ## Woogie's Tech Stack👻👻👻
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=blue"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Java-6DB33F?style=flat-square&logo=Java&logoColor=orange"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Springboot-007396?style=flat-square&logo=Springboot&logoColor=green"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=blue"/></a>
+<img src="https://img.shields.io/badge/Java-6DB33F?style=flat-square&logo=Java&logoColor=orange"/></a>
+<img src="https://img.shields.io/badge/Springboot-007396?style=flat-square&logo=Springboot&logoColor=green"/></a>
 
 
 ## Welcome to my Github✔✔✔
